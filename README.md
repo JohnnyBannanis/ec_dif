@@ -1,2 +1,4 @@
-# lab 2 - ecuaciones diferenciales
-codigos utilizados en el desarrollo del laboratorio de ecuaciones diferenciales
+# Ecuaciones diferenciales
+
+Desarrollo de laboratorio de ecuaciones diferenciales.
+Codigo para modelar graficas representativas de memorizacion de texto
